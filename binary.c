@@ -5,7 +5,7 @@ void main()
     int arr[20],first,last,n,i,mid,search;
     printf("enter the no of elements");
     scanf("%d",&n);
-    printf("enter the array elements");
+    printf("enter the array dann");
     for(i=0;i<n;i++)
     {
       scanf("%d",&arr[i]);
